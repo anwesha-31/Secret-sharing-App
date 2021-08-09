@@ -1,0 +1,32 @@
+
+body {
+  background-color:  rgb(241, 200, 241);
+  /* #E8ECEF; */
+}
+
+.home{
+  background-color:  rgb(241, 200, 241);
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+  margin: 30px;
+}
+
+.sec{
+  padding-top: 150px;
+  background-color: rgb(241, 200, 241);
+}
+
+.sub{
+  background-color: rgb(185, 149, 218);
+}
+
